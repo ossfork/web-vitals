@@ -1,5 +1,10 @@
 # Changelog
 
+### v6.0.1 (2026-07-27)
+
+- Prevent JavaScript error if `PerformanceObserver` not available
+  ([#772](https://github.com/GoogleChrome/web-vitals/pull/772))
+
 ### v6.0.0 (2026-07-21)
 
 v6 introduces [Soft Navigation support for the Web Vitals metrics](https://developer.chrome.com/docs/web-platform/soft-navigations) when supported by the browser.
