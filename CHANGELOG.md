@@ -1,5 +1,10 @@
 # Changelog
 
+### v6.1.0 (2026-08-05)
+
+- Add Resource Timing buffer for LCP attribution
+  ([#776](https://github.com/GoogleChrome/web-vitals/pull/776))
+
 ### v6.0.1 (2026-07-27)
 
 - Prevent JavaScript error if `PerformanceObserver` not available
