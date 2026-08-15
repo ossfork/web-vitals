@@ -1,5 +1,10 @@
 # Changelog
 
+### v6.1.1 (2026-08-15)
+
+- Scope the navigation interaction count to each InteractionManager
+  ([#783](https://github.com/GoogleChrome/web-vitals/pull/783))
+
 ### v6.1.0 (2026-08-05)
 
 - Add Resource Timing buffer for LCP attribution
