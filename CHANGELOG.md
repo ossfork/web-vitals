@@ -1,5 +1,10 @@
 # Changelog
 
+### v6.2.1 (2026-08-26)
+
+- Fix negative inputDelay in INP attribution
+  ([#789](https://github.com/GoogleChrome/web-vitals/pull/789))
+
 ### v6.2.0 (2026-08-24)
 
 - Prevent spurious CLS report of 0 after bfcache restore
